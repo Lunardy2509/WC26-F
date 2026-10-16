@@ -1,0 +1,17 @@
+{
+  "description": "Mean F-Scan footprint box of the private cohort (grid rows/cols), used to register StepUP-P150 footsteps; values used in the paper.",
+  "n_trials": 29,
+  "active_fraction": 0.02,
+  "mean_box": {
+    "row_min": 6.9655172413793105,
+    "row_max": 55.41379310344828,
+    "col_min": 1.4827586206896552,
+    "col_max": 18.310344827586206
+  },
+  "sd_box": {
+    "row_min": 1.8609283132867096,
+    "row_max": 2.485920947187385,
+    "col_min": 0.5085476277156078,
+    "col_max": 0.8063785124981439
+  }
+}
